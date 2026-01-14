@@ -31,5 +31,6 @@ Giám sát nhân sự: Quản lý thông tin nhân viên, cấp tài khoản và
 ### Biểu đồ Hoạt động (Activity Diagram)
 
 Quy trình bán hàng
+
 ![Quy trình bán hàng](./images/ACTIVITY%20DIAGRAM/BanHang.png)
 
