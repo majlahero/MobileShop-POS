@@ -1,6 +1,11 @@
 # MobileShop-POS
+
+Hệ thống Quản lý Nhập và Bán hàng Cửa hàng Di động giúp tối ưu hóa quy trình vận hành và chăm sóc khách hàng.
+
 ## Tính năng chính của hệ thống
+
 ### Quản lý Bán hàng & Khách hàng
+
 Bán hàng nhanh chóng: Hỗ trợ tìm kiếm sản phẩm, tạo đơn hàng, áp dụng mã giảm giá và in hóa đơn chuyên nghiệp. 
 
 Quản lý Khách hàng: Lưu trữ thông tin khách hàng (tên, SĐT, địa chỉ) để tích điểm ưu đãi và chăm sóc sau bán.
@@ -25,12 +30,4 @@ Thống kê doanh thu: Biểu đồ cột trực quan theo tháng, hỗ trợ xu
 
 Giám sát nhân sự: Quản lý thông tin nhân viên, cấp tài khoản và theo dõi lịch sử đăng nhập/đăng xuất chi tiết.
 
-
-## Sơ đồ thiết kế hệ thống
-
-### Biểu đồ Hoạt động (Activity Diagram)
-
-Quy trình bán hàng
-
-![Quy trình bán hàng](./images/ACTIVITY%20DIAGRAM/BanHang.png)
 
